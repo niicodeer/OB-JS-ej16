@@ -1,0 +1,31 @@
+.seccion {
+    background-color: rgb(14, 202, 202);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+}
+
+.parrafo {
+    background-color: white;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.parrafo.dragging {
+    opacity: 0.3;
+}
+
+.imagen-fantasma {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    position: absolute;
+    left: -100vw;
+}
+.img-container{
+    text-align: center;
+}
+.papelera{
+    width: 150px;
+}
